@@ -21,7 +21,10 @@ It focuses solely on establishing a **SignalR Hub** and connecting a client to i
 <br>
 
 ## 📜 License
-This project is licensed under the [MIT License](./LICENSE).
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+This project is licensed under the terms described in the [LICENSE](./LICENSE) file.
 
 ---
 
